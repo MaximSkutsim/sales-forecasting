@@ -44,7 +44,7 @@ FastAPI веб-сервис предоставляет следующие энд
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/stock-management-system.git
+git clone https://github.com/MaximSkutsim/sales-forecasting.git
 cd stock-management-system
 ```
 
