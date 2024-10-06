@@ -25,7 +25,7 @@ setup(
     description="Система прогнозирования спроса и управления запасами",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/stock-management-system",
+    url="https://github.comMaximSkutsim/sales-forecasting",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
