@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite3
+
+# Data files
+data/
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.h5
+
+
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Logs
+logs/
+*.log
+
+# Output files
+output/
+results/
+*.png
+*.jpg
+*.jpeg
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables
+.env
+
+# Miscellaneous
+*.DS_Store
